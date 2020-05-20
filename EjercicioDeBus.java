@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaFundamentals {
+public class EjercicioDeBus {
 
 	public static void main(String[] args) {
 		//Instanciamos la clase scanner para poder ingresar datos
