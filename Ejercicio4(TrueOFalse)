@@ -1,0 +1,19 @@
+4. Escriba true o false en los espacios en blanco del programa a continuación para mostrar el valor de la variable booleana
+true_false mientras se ejecuta el programa.
+
+int i=5;
+int j=6;
+boolean true_false;
+
+true_false=(j<5); False
+true_false=(j>3); True
+true_false=(j<i); False 
+true_false=(i<5); False
+true_false=(j<=5); False
+true_false=(6<6);  False
+true_false=(i!=j); True
+true_false=(i==j || i<50); True
+true_false=(i==j && i<50); False
+true_false=(i>j || true_false && j>=4); ______
+true_false=(!(i<2 && j==5)); True
+true_false=!true_false; ________
